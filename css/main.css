@@ -39,8 +39,9 @@ body {
 
 #section1 {
     background-color: #f1f1f1;
-    background: url(imgs/giraffe-9146077_1920.jpg);
+    background: url(imgs/16.jpeg) no-repeat;
     background-size: cover;
+    background-position: bottom;
 }
 
 #section2 {
@@ -68,6 +69,10 @@ body {
 }
 
 #section8 {
+    background-color: #f1f1f1;
+}
+
+#section9 {
     background-color: #e2e2e2;
     display: flex;
     justify-content: center;
